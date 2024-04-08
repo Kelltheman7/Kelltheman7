@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, UE5, Calc2
 - 💞️ I’m looking to collaborate on understanding anything more!
 - 📫 How to reach me TBD
-- 😄 Pronouns: Male
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the top 100 in PUBG on XBOX FPP when it was first released! Out of 1.3M people!
 
 <!---
